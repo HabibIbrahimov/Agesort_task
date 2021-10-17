@@ -1,0 +1,14 @@
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.exe
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.deps.json
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.runtimeconfig.json
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.runtimeconfig.dev.json
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.dll
+B:\Project C#\Agesort\Agesort\bin\Debug\netcoreapp3.1\Agesort.pdb
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.csproj.AssemblyReference.cache
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.GeneratedMSBuildEditorConfig.editorconfig
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.AssemblyInfoInputs.cache
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.AssemblyInfo.cs
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.csproj.CoreCompileInputs.cache
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.dll
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.pdb
+B:\Project C#\Agesort\Agesort\obj\Debug\netcoreapp3.1\Agesort.genruntimeconfig.cache
